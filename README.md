@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo realizar un análisis de las estadísticas de 
 
 - `data/`: Archivos con los datos de los Pokémon (por ejemplo, CSV o JSON).
   
-[![Pokemon](https://es.wikipedia.org/wiki/Pok%C3%A9mon#/media/Archivo:International_Pok%C3%A9mon_logo.svg)](https://pokemon-project.com/dex)
+[![Pokemon](https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg)](https://pokemon-project.com/dex)
 
   
 - `sql/`: Consultas SQL para extraer y analizar las estadísticas de los Pokémon.
