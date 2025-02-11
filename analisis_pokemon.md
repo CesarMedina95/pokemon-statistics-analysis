@@ -18,5 +18,4 @@ Durante el siguiente analisis se van a responder las siguientes preguntas:
 
 ¿Cuales son los Pokémon con estadísticas mas balanceadas vs. los que tienen stats mas desiguales?
 
-![image](https://github.com/user-attachments/assets/cc773290-cad2-46a7-bacd-2233a24ef423)
-![image](https://github.com/user-attachments/assets/0a29c6f3-9e6d-4034-9380-4f4bebca9b38)
+![image](https://github.com/user-attachments/assets/cc773290-cad2-46a7-bacd-2233a24ef423)![image](https://github.com/user-attachments/assets/0a29c6f3-9e6d-4034-9380-4f4bebca9b38)
