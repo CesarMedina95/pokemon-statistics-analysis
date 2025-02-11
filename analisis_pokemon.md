@@ -1,4 +1,4 @@
-# Análisis de Pokémon con JavaScript
+# Análisis de Pokémon 
 
 Este archivo contiene diferentes análisis de datos sobre Pokémon usando JavaScript. 
 
